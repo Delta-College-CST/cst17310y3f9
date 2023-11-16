@@ -1,0 +1,833 @@
+YAM,Sault Sainte Marie
+YAV,Winnipeg
+YAW,Halifax
+YAY,St. Anthony
+YAZ,Tofino
+YBB,Pelly Bay
+YBC,Baie Comeau
+YBG,Bagotville
+YBK,Baker Lake
+YBL,Campbell River
+YBR,Brandon
+YCB,Cambridge Bay
+YCD,Nanaimo
+YCG,Castlegar
+YCH,Chatham
+YCL,Charlo
+YCO,Coppermine
+YCT,Coronation
+YCW,Chilliwack
+YCY,Clyde River
+YZS,Coral Harbour
+YDA,Dawson
+YDB,Burwash
+YDC,Princeton
+YDF,Deer Lake
+YDL,Dease Lake
+YDN,Dauphin
+YDQ,Dawson Creek
+YEG,Edmonton
+YEK,Eskimo Point
+YEN,Estevan
+YET,Edson
+YEU,Eureka
+YEV,Inuvik
+YFB,Iqaluit
+YFC,Fredericton
+YFO,Flin Flon
+YFR,Fort Resolution
+YFS,Fort Simpson
+YGK,Kingston
+YGL,La Grande Riviere
+YGP,Gaspe
+YGQ,Geraldton
+YGR,Iles De La Madeleine
+YHB,Hudson Bay
+YHD,Dryden
+YHI,Holman Island
+YHK,Gjoa Haven
+YHM,Hamilton
+YHU,Montreal
+YHY,Hay River
+YHZ,Halifax
+YIB,Atikokan
+YIO,Pond Inlet
+YJN,St. Jean
+YJT,Stephenville
+YKA,Kamloops
+YKF,Waterloo
+YKL,Schefferville
+YKY,Kindersley
+YKZ,Toronto
+YLD,Chapleau
+YLJ,Meadow Lake
+YLL,Lloydminster
+YLT,Alert
+YLW,Kelowna
+YMA,Mayo
+YMJ,Moose Jaw
+YMM,Fort Mcmurray
+YMO,Moosonee
+YMW,Maniwaki
+YMX,Montreal
+YNA,Natashquan
+YND,Gatineau
+YNM,Matagami
+YOC,Old Crow
+YOD,Cold Lake
+YOJ,High Level
+YOW,Ottawa
+YPA,Prince Albert
+YPE,Peace River
+YPG,Portage-la-prairie
+YPL,Pickle Lake
+YPN,Port Menier
+YPQ,Peterborough
+YPR,Prince Pupert
+YPY,Fort Chipewyan
+YQA,Muskoka
+YQB,Quebec
+YQF,Red Deer Industrial
+YQG,Windsor
+YQH,Watson Lake
+YQK,Kenora
+YQL,Lethbridge
+YQM,Moncton
+YQQ,Comox
+YQR,Regina
+YQT,Thunder Bay
+YQU,Grande Prairie
+YQV,Yorkton
+YQW,North Battleford
+YQX,Gander
+YQY,Sydney
+YQZ,Quesnel
+YRB,Resolute
+YRI,Riviere Du Loup
+YRJ,Roberval
+YRM,Rocky Mountain House
+YRT,Rankin Inlet
+YSB,Sudbury
+YSC,Sherbrooke
+YSJ,St. John
+YSM,Fort Smith
+YSR,Nanisivik
+YSU,Summerside
+YSY,Sachs Harbour
+YTE,Cape Dorset
+YTH,Thompson
+YTR,Trenton
+YTS,Timmins
+YTZ,Toronto
+YUB,Tuktoyaktuk
+YUL,Montreal
+YUT,Repulse Bay
+YUX,Hall Beach
+YUY,Rouyn
+YVC,La Ronge
+YVG,Vermillion
+YVM,Broughton Island
+YVO,Val D'or
+YVP,Quujjuaq
+YVQ,Norman Wells
+YVR,Vancouver
+YVT,Buffalo Narrows
+YVV,Wiarton
+YWA,Petawawa
+YWG,Winnipeg
+YWK,Wabush
+YWL,Williams Lake
+YWY,Wrigley
+YXC,Cranbrook
+YXD,Edmonton
+YXE,Saskatoon
+YXH,Medicine Hat
+YXJ,Fort Saint John
+YXL,Sioux Lookout
+YXP,Pangnirtung
+YXR,Earlton
+YXS,Prince George
+YXT,Terrace
+YXU,London
+YXX,Abbotsford
+YXY,Whitehorse
+YYB,North Bay
+YYC,Calgary
+YYD,Smithers
+YYE,Fort Nelson
+YYF,Penticton
+YYG,Charlottetown
+YYH,Spence Bay
+YYJ,Victoria
+YYL,Lynn Lake
+YYN,Swift Current
+YYQ,Churchill
+YYR,Goose Bay
+YYT,St. John's
+YYU,Kapuskasing
+YYW,Armstrong
+YYY,Mont Joli
+YYZ,Toronto
+YZD,Toronto
+YZE,Gore Bay
+YZF,Yellowknife
+YZH,Slave Lake
+YZP,Sandspit
+YZR,Sarnia
+YZT,Port Hardy
+YZU,Whitecourt
+YZV,Sept-iles
+YZW,Teslin
+YZX,Greenwood
+ZFA,Faro
+ZFM,Fort Mcpherson
+4I7,Greencastle
+C91,Dowagiac
+CDI,Cambridge
+SUE,Sturgeon Bay
+0P2,Stewartstown
+PDT,Pendleton
+TYE,Tyonek
+RIW,Riverton WY
+MTJ,Montrose CO
+1CS,Bolingbrook
+ENW,Kenosha
+VGT,Las Vegas
+C02,Lake Geneva
+DKB,De Kalb
+LAF,Lafayette
+OXD,Oxford
+MIE,Muncie
+1RL,Point Roberts
+MQB,Macomb
+AUW,Wausau
+C47,Portage
+IWD,Ironwood
+MCD,Mackinac Island
+GRM,Grand Marais
+NPZ,Valparaiso
+MXY,McCarthy
+SWD,Seward
+MGC,Michigan City
+AET,Allakaket
+YAK,Yakutat
+MQT,Marquette
+IMT,Iron Mountain
+ESC,Escanaba
+MWA,Marion
+BTI,Barter Island
+K03,Fort Wainwright
+LUR,Cape Lisburne
+PIZ,Point Lay
+ITO,Hilo
+ORL,Orlando
+BTT,Bettles
+Z84,Clear Mews
+UTO,Indian Mountains
+FYU,Fort Yukon
+SVW,Sparrevohn
+FRN,Fort Richardson
+TLJ,Tatalina
+CZF,Cape Romanzof
+BED,Bedford
+SNP,St. Paul Island
+EHM,Cape Newenham
+PBV,Point Barrow
+ILI,Iliamna
+PTU,Port Moller
+BMX,Big Mountain
+OSC,Oscoda
+OAR,Fort Ord
+MHR,Sacramento
+BYS,Fort Irwin
+NXP,Twenty Nine Palms
+FSM,Fort Smith
+MRI,Anchorage
+GNT,Grants
+PNC,Ponca City
+SVN,Hunter Aaf
+GFK,Grand Forks
+PBF,Pine Bluff
+NSE,Milton
+HNM,Hana
+PRC,Prescott
+TTN,Trenton
+BOS,Boston
+SUU,Fairfield
+RME,Rome
+ENV,Wendover
+BFM,Mobile
+OAK,Oakland
+OMA,Omaha
+NOW,Port Angeles
+OGG,Kahului
+ICT,Wichita
+MCI,Kansas City
+MSN,Madison
+DLG,Dillingham
+HRO,Harrison
+PHX,Phoenix
+BGR,Bangor
+FXE,Fort Lauderdale
+GGG,Longview
+AND,Andersen
+GEG,Spokane
+HWO,Hollywood
+SFO,San Francisco
+CTB,Cutbank
+ARA,Louisiana
+GNV,Gainesville
+MEM,Memphis
+DUG,Douglas
+BIG,Delta Junction
+CNW,Waco
+ANN,Annette Island
+CAR,Caribou
+LRF,Jacksonville
+HUA,Redstone
+POB,Fort Bragg
+DHT,Dalhart
+DLF,Del Rio
+LAX,Los Angeles
+ANB,Anniston
+CLE,Cleveland
+DOV,Dover
+CVG,Cincinnati
+FME,Fort Meade
+NID,China
+HON,Huron
+JNU,Juneau
+LFT,Lafayette
+EWR,Newark
+BOI,Boise
+INS,Indian Springs
+GCK,Garden City
+MOT,Minot
+HHI,Wahiawa
+MXF,Montgomery
+RBM,Robinson
+DAL,Dallas
+FCS,Fort Carson
+HLN,Helena
+NKX,Miramar
+LUF,Phoenix
+HRT,Mary Esther
+HHR,Hawthorne
+HUL,Houlton
+END,Enid
+NTD,Point Mugu
+EDW,Edwards Afb
+LCH,Lake Charles
+KOA,Kona
+MYR,Myrtle Beach
+NLC,Lemoore
+ACK,Nantucket
+FAF,Fort Eustis
+HOP,Hopkinsville
+DCA,Washington
+NHK,Patuxent River
+PSX,Palacios
+BYH,Blytheville
+ACY,Atlantic City
+TIK,Oklahoma City
+ECG,Elizabeth City
+PUB,Pueblo
+PQI,Presque Isle
+IKR,Kirtland A.f.b.
+GRF,Fort Lewis
+ADQ,Kodiak
+UPP,Opolu
+FLL,Fort Lauderdale
+MKO,Muskogee
+INL,International Falls
+SLC,Salt Lake City
+CDS,Childress
+BIX,Biloxi
+LSF,Fort Benning
+NQI,Kingsville
+FRI,Fort Riley
+MDT,Harrisburg
+LNK,Lincoln
+LAN,Lansing
+MUE,Kamuela
+MSS,Massena
+HKY,Hickory
+SPG,St. Petersburg
+FMY,Fort Myers
+IAH,Houston
+MLT,Millinocket
+ADW,Camp Springs
+INT,Winston-salem
+VCV,Victorville
+CEW,Crestview
+GTB,Fort Drum
+PHN,Port Huron
+BFL,Bakersfield
+ELP,El Paso
+HRL,Harlingen
+CAE,Columbia
+DMA,Tucson
+NPA,Pensacola
+PNS,Pensacola
+RDR,Red River
+HOU,Houston
+BKF,Buckley
+ORT,Northway
+PAQ,Palmer
+PIT,Pittsburgh
+BRW,Barrow
+EFD,Houston
+NUW,Whidbey Island
+ALI,Alice
+VAD,Valdosta
+MIA,Miami
+SEA,Seattle
+CHA,Chattanooga
+BDR,Stratford
+JAN,Jackson
+GLS,Galveston
+LGB,Long Beach
+HDH,Dillingham
+IPT,Williamsport
+IND,Indianapolis
+SZL,Knobnoster
+AKC,Akron
+GWO,Greenwood
+HPN,White Plains
+FOK,West Hampton Beach
+JBR,Jonesboro
+TNX,Tonopah
+LNA,West Palm Beach
+NZY,San Diego
+BIF,El Paso
+YUM,Yuma
+CNM,Carlsbad
+DLH,Duluth
+BET,Bethel
+LOU,Louisville
+FHU,Fort Huachuca
+LIH,Lihue
+HUF,Terre Haute
+HVR,Havre
+MWH,Grant County Airport
+MPV,Montpelier
+RIC,Richmond
+SHV,Shreveport
+CDV,Cordova
+ORF,Norfolk
+BPT,Beaumont
+SAV,Savannah
+HIF,Ogden
+OME,Nome
+SPB,San Luis
+PIE,St. Petersburg
+MNM,Macon
+CXO,Conroe
+SCC,Deadhorse
+SAT,San Antonio
+ROC,Rochester
+COF,Coco Beach
+TEB,Teterboro
+RCA,Rapid City
+RDU,Raleigh-Durham
+DAY,Dayton
+ENA,Kenai
+MLC,Mcalester
+IAG,Niagara Falls
+CFD,Bryan
+PHF,Newport News
+ESF,Alexandria
+LTS,Altus
+TUS,Tucson
+MIB,Minot
+BAB,Marysville
+IKK,Kankakee
+GSB,Goldsboro
+PVD,Providence
+SBY,Salisbury
+RIU,Rancho Murieta
+BUR,Burbank
+DTW,Detroit
+TPA,Tampa
+PMB,Pembina
+POE,Fort Polk
+EIL,Fairbanks
+HIB,Hibbing
+LFK,Lufkin
+MAF,Midland
+GRB,Green Bay
+ADM,Ardmore
+WRI,Wrightstown
+NKT,Cherry Point
+SBO,Santa Barbara
+AGS,Bush Field
+ISN,Williston
+LIT,Little Rock
+SWF,Newburgh
+BDE,Baudette
+SAC,Sacramento
+HOM,Homer
+TBN,Fort Leonardwood
+MGE,Marietta
+SKA,Spokane
+HTL,Houghton Lake
+PAM,Panama City
+DFW,Dallas-Fort Worth
+MLB,Melbourne
+TCM,Tacoma
+AUS,Austin
+LCK,Columbus
+TYS,Knoxville
+HLR,Fort Hood
+STL,St. Louis
+MIV,Millville
+SPS,Wichita Falls
+LUK,Cincinnati
+ATL,Atlanta
+MER,Merced
+MCC,Sacramento
+GRR,Grand Rapids
+INK,Wink
+FAT,Fresno
+VRB,Vero Beach
+IPL,Imperial
+BNA,Nashville
+LRD,Laredo
+EDF,Anchorage
+OTZ,Kotzebue
+AOO,Altoona
+DYS,Abilene
+ELD,El Dorado
+LGA,New York
+TLH,Tallahassee
+DPA,West Chicago
+ACT,Waco
+AUG,Augusta
+INJ,Hillsboro
+NIP,Jacksonville
+MKL,Jackson
+MKK,Molokai
+FTK,Fort Knox
+SJT,San Angelo
+CXL,Calexico
+CIC,Chico
+BTV,Burlington
+JAX,Jacksonville
+DRO,Durango
+IAD,Washington
+CLL,College Station
+SFF,Spokane
+MKE,Milwaukee
+ABI,Abilene
+COU,Columbia
+PDX,Portland
+TNT,Miami
+PBI,West Palm Beach
+FTW,Fort Worth
+OGS,Ogdensburg
+FMH,Falmouth
+BFI,Seattle
+SKF,San Antonio
+HNL,Honolulu
+DSM,Des Moines
+EWN,New Bern
+SAN,San Diego
+MLU,Monroe
+SSC,Sumter
+ONT,Ontario
+GVT,Greenvile
+ROW,Roswell
+DET,Detroit
+BRO,Brownsville
+DHN,Dothan
+WWD,Wildwood
+NFL,Fallon
+MTC,Mount Clemens
+FMN,Farmington
+CRP,Corpus Christi
+SYR,Syracuse
+NQX,Key West
+MDW,Chicago
+SJC,San Jose
+HOB,Hobbs
+PNE,Philadelphia
+DEN,Denver
+PHL,Philadelphia
+SUX,Sioux City
+MCN,Macon
+TCS,Truth Or Consequences
+PMD,Palmdale
+RND,San Antonio
+NJK,El Centro
+CMH,Columbus
+FYV,Fayetteville
+FSI,Fort Sill
+PNM,Princeton
+FFO,Dayton
+GAL,Galena
+MWL,Mineral Wells
+IAB,Wichita
+NBG,New Orleans
+BFT,Beaufort
+TXK,Texarkana
+PBG,Plattsburgh
+APG,Aberdeen
+TCC,Tucumcari
+ANC,Anchorage
+GRK,Killeen
+ZUN,Zuni Pueblo
+BLI,Bellingham
+NQA,Millington
+EKN,Elkins
+HFD,Hartford
+SFZ,Smithfield
+MOB,Mobile
+NUQ,Mountain View
+SAF,Santa Fe
+BKH,Barking Sands
+DRI,Deridder
+BSF,Bradshaw Field
+OLS,Nogales
+MCF,Tampa
+BLV,Belleville
+OPF,Miami
+DRT,Del Rio
+RSW,Fort Myers
+AKN,King Salmon
+MUI,Muir
+JHM,Lahania-kapalua
+JFK,New York
+HST,Homestead
+RAL,Riverside
+FLV,Fort Leavenworth
+WAL,Wallops Island
+HMN,Alamogordo
+NXX,Willow Grove
+CYS,Cheyenne
+SCK,Stockton
+CHS,Charleston
+RNO,Reno
+KTN,Ketchikan
+YIP,Detroit
+VBG,Lompoc
+BHM,Birmingham
+NEL,Lakehurst
+SYA,Shemya
+LSV,Las Vegas
+RIV,Riverside
+MOD,Modesto
+SMF,Sacramento
+UGN,Chicago
+COS,Colorado Springs
+BUF,Buffalo
+SKY,Sandusky
+PAE,Everett
+MUO,Mountain Home
+CDC,Cedar City
+BDL,Windsor Locks
+MFE,Mcallen
+NGU,Norfolk
+CEF,Chicopee Falls
+LBB,Lubbock
+ORD,Chicago
+BCT,Boca Raton
+FAI,Fairbanks
+NYG,Quantico
+CVS,Clovis
+NGF,Kaneohe Bay
+OFF,Omaha
+GKN,Gulkana
+ART,Watertown
+PSP,Palm Springs
+AMA,Amarillo
+FOD,Fort Dodge
+BAD,Shreveport
+FOE,Topeka
+COT,Cotulla
+ILM,Wilmington
+BTR,Baton Rouge
+NMM,Meridian
+TYR,Tyler
+BWI,Baltimore
+HBR,Hobart
+LNY,Lanai
+AEX,Alexandria
+WSD,White Sands
+CDB,Cold Bay
+TUL,Tulsa
+SIT,Sitka
+ISP,Islip
+MSP,Minneapolis
+ILG,Wilmington
+DUT,Unalaska
+MSY,New Orleans
+PWM,Portland
+OKC,Oklahoma City
+ALB,Albany
+VDZ,Valdez
+LFI,Hampton
+SNA,Santa Ana
+CBM,Colombus
+TMB,Kendall-tamiami
+NTU,Oceana
+GUS,Peru
+CPR,Casper
+VPS,Valparaiso
+SEM,Selma
+EYW,Key West
+CLT,Charlotte
+LAS,Las Vegas
+MCO,Orlando
+FLO,Florence
+GTF,Great Falls
+YNG,Youngstown
+FBK,Fort Wainwright
+MMV,Mackminnville
+WRB,Macon
+PUW,Pullman
+LWS,Lewiston
+ELM,Elmira
+ITH,Ithaca
+MRY,Monterey
+SBA,Santa Barbara
+DAB,Daytona Beach
+JRB,New York
+TKA,Talkeetna
+HVN,New Haven
+AVL,Asheville
+GSO,Greensboro
+FSD,Sioux Falls
+MHT,Manchester NH
+APF,Naples
+SDF,Louisville
+CHO,Charlottesville VA
+ROA,Roanoke VA
+LEX,Lexington KY
+EVV,Evansville
+ABQ,Albuquerque
+BZN,Bozeman
+BIL,Billings
+BTM,Butte
+TVC,Traverse City
+BHB,Bar Harbor
+RKD,Rockland
+JAC,Jacksn Hole
+RFD,Rockford
+TSS,New York
+GSP,Greenville
+BMI,Bloomington
+GPT,Gulfport
+AZO,Kalamazoo
+TOL,Toledo
+FWA,Fort Wayne
+DEC,Decatur
+CID,Cedar Rapids
+LSE,La Crosse
+CWA,Wassau
+PIA,Peoria
+ATW,Appleton
+RST,Rochester
+CMI,Champaign
+MHK,Manhattan
+FKL,Franklin
+GJT,Grand Junction
+SGU,Saint George
+DWH,Houston
+S46,Port O\'Connor
+SRQ,Sarasota
+VNY,Van Nuys
+X21,Titusville
+MLI,Moline
+PFN,Panama City
+DWS,Orlando
+BIS,Bismarck
+TEX,Telluride
+RAP,Rapid City
+CLD,Carlsbad
+FNT,Flint
+YOA,Ekati
+RDD,Redding
+EUG,Eugene
+IDA,Idaho Falls
+MFR,Medford
+RDM,Redmond-Bend
+YWH,Victoria
+CXH,Vancouver
+CAK,Akron
+HSV,Huntsville
+PKB,Parkersburg
+MGM,Montgomery
+TRI,Bristol
+PAH,Paducah
+FCA,Kalispell
+PGA,Page
+MBS,Saginaw
+BGM,Binghamton
+BLH,Blythe
+PSG,Petersburg
+SFB,Sanford
+JST,Johnstown
+MSO,Missoula
+GCN,Grand Canyon
+SGR,Sugar Land
+APA,Denver
+CVN,Clovis
+FST,Fort Stockton
+LVS,Las Vegas
+IWS,Houston
+LHX,La Junta
+LRU,Las Cruces
+BKD,Breckenridge
+TPL,Temple
+OZA,Ozona
+WKL,Waikoloa Village
+LAK,Aklavik
+YWJ,Deline
+ZFN,Tulita
+YGH,Fort Good Hope
+YPC,Paulatuk
+EGE,Vail
+CGF,Richmond Heights
+MFD,Mansfield
+CSG,Columbus
+LAW,Lawton
+FNL,Fort Collins
+FLG,Flagstaff
+TVL,South Lake Tahoe
+TWF,Twin Falls
+MVY,Vineyard Haven MA
+UUU,Newport RI
+VSF,Springfield VT
+CON,Concord NH
+SFM,Sanford ME
+GON,Groton CT
+STC,Saint Cloud
+GTR,Columbus Mississippi
+HQM,Hoquiam
+ERI,Erie
+HYA,Barnstable
+SDX,Sedona
+MGW,Morgantown
+CRW,Charleston
+AVP,Scranton
+BJI,Bemidji
+FAR,Fargo
+MKC,Kansas City
+AZA,Mesa
+GCC,Gillette
+NZJ,Santa Ana
+ECA,East Tawas
+SCE,State College Pennsylvania
+MEI,Meridian
+SPI,Springfield
+CEZ,Cortez
+HDN,Hayden
+GUP,Gallup
+LBL,Liberal
+LAA,Lamar
+GLD,Goodland
+COD,Cody
+SGF,Springfield
+JLN,Joplin
+ABE,Allentown
+XNA,Bentonville
